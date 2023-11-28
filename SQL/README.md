@@ -1,0 +1,1 @@
+All solution tested in MySQL
